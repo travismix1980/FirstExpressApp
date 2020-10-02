@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/travismix1980/FirstExpressApp/issues"
   },
-  "homepage": "https://github.com/travismix1980/FirstExpressApp#readme"
+  "homepage": "https://github.com/travismix1980/FirstExpressApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
